@@ -1,0 +1,15 @@
+Collated Components:,,,,,,,,,,,,
+,,,,,,,,,,,,
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,DNP,Datasheet,Description,Footprint,Sim.Device,Sim.Pins
+1,1,BT1,24V,Device:Battery_Cell,,~,,~,Single-cell battery,,,
+2,1,C1,100uF,Device:C,,~,,~,Unpolarized capacitor,,,
+3,1,C2,0.1uF,Device:C,,~,,~,Unpolarized capacitor,,,
+4,1,C3,C,Device:C,,~,,~,Unpolarized capacitor,,,
+5,3,"D1, D2, D3",1N4007,Diode:1N4007,Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal,http://www.vishay.com/docs/88503/1n4001.pdf,,http://www.vishay.com/docs/88503/1n4001.pdf,"1000V 1A General Purpose Rectifier Diode, DO-41",Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal,D,1=K 2=A
+6,1,L1,5.9uF,Device:L,,~,,~,Inductor,,,
+7,1,MES1,Voltmeter_DC,Device:Voltmeter_DC,,~,,~,DC voltmeter,,,
+8,1,Q1,IRLZ44N,Transistor_FET:IRLZ44N,Package_TO_SOT_THT:TO-220-3_Vertical,http://www.irf.com/product-info/datasheets/data/irlz44n.pdf,,http://www.irf.com/product-info/datasheets/data/irlz44n.pdf,"47A Id, 55V Vds, 22mOhm Rds Single N-Channel HEXFET Power MOSFET, TO-220AB",Package_TO_SOT_THT:TO-220-3_Vertical,,
+9,1,R1,1k,Device:R,,~,,~,Resistor,,,
+10,1,R2,35,Device:R,,~,,~,Resistor,,,
+11,1,RV1,47k,Device:R_Potentiometer,,~,,~,Potentiometer,,,
+12,1,U1,NE555D,Timer:NE555D,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,http://www.ti.com/lit/ds/symlink/ne555.pdf,,http://www.ti.com/lit/ds/symlink/ne555.pdf,"Precision Timers, 555 compatible, SOIC-8",Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,,
